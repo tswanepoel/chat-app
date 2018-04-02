@@ -1,5 +1,3 @@
-Playing with WebRTC
-
 ## Run [PeerServer](https://github.com/peers/peerjs-server)
 
 Install the library:
