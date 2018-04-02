@@ -1,10 +1,10 @@
-## Run PeerServer
+## Run [PeerServer](https://github.com/peers/peerjs-server)
 
-Install [PeerServer](https://github.com/peers/peerjs-server):
+Install the library:
 
     $> npm install peerjs -g
 
-Run PeerServer:
+Run the server:
 
     $> peerjs --port 9000 --key peerjs
     
@@ -14,7 +14,7 @@ Install [http-server](https://github.com/indexzero/http-server):
 
     $> npm install http-server -g
 
-Start the app:
+Run the app:
 
     $> http-server -p 4200
     
